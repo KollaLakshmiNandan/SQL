@@ -1,0 +1,116 @@
+# SQL
+==============================================================
+Task 1: Employee Database Creation (Beginner)
+Objective
+Create a complete employee database.
+
+Requirements
+Create a database named office_db.
+
+Create a Department table with:
+
+Department ID (Primary Key)
+
+Department Name (NOT NULL)
+
+Create an Employee table with:
+
+Employee ID (Primary Key)
+
+Employee Name (NOT NULL)
+
+Email (UNIQUE)
+
+Salary (DEFAULT 25000)
+
+Age (CHECK age >=18)
+
+Department ID (Foreign Key)
+
+Insert:
+
+5 departments
+
+10 employees
+
+Display all employees.
+----------------------------------------------------------------
+Task 2: SQL Queries Challenge (Intermediate)
+Using the Employee and Department tables, write queries for the following:
+
+Display all employees.
+
+Display only employee names and salaries.
+
+Find employees earning more than ₹50,000.
+
+Find employees between ages 25 and 30.
+
+Display employees from departments 101 and 103.
+
+Display distinct department IDs.
+
+Sort employees by salary in descending order.
+
+Display the first 5 employees.
+
+Find employees whose names start with 'J'.
+
+Display:
+
+Total employees
+
+Maximum salary
+
+Minimum salary
+
+Average salary
+
+Count employees department-wise using GROUP BY.
+
+Display only departments having more than one employee using HAVING.
+
+Display employee name with department name using INNER JOIN.
+---------------------------------------------------------------
+Task 3: Database Administration & Transactions (Advanced Basic)
+Part A – User Management
+Create a user named student1.
+
+Assign password Student@123.
+
+Grant only SELECT permission on company_db.
+
+Verify permissions using SHOW GRANTS.
+
+Part B – Transactions
+Start a transaction.
+
+Update salary of employee ID 1.
+
+Verify the update.
+
+Roll back the transaction.
+
+Verify that the original salary is restored.
+
+Start another transaction.
+
+Update the salary again.
+
+Commit the transaction.
+
+Part C – Table Modification
+Add a phone column to the Employee table.
+
+Update phone numbers for any 3 employees.
+
+Display the table.
+
+Truncate the Employee table.
+
+Drop the Employee table.
+
+Drop the Department table.
+
+Drop the database.
+-------------------------------------------------------------
