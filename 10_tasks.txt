@@ -106,13 +106,13 @@ Update phone numbers for any 3 employees.
 
 Display the table.
 
-Truncate the Employee table.
+Truncate the Employee table. ( Just know about this, don't do this. if you do then the work you have done will be lost)
 
-Drop the Employee table.
+Drop the Employee table. ( Just know about this, don't do this. if you do then the work you have done will be lost)
 
-Drop the Department table.
+Drop the Department table. ( Just know about this, don't do this. if you do then the work you have done will be lost)
 
-Drop the database.
+Drop the database. ( Just know about this, don't do this. if you do then the work you have done will be lost)
 -------------------------------------------------------------
 Task 4: You are working as a Database Developer in an HR department. The HR Manager wants you to improve the Employee database.
 Use the Employee and Department tables to complete the following tasks.
