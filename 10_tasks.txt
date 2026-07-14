@@ -117,8 +117,6 @@ Drop the database. ( Just know about this, don't do this. if you do then the wor
 Task 4
 Create one subquery to display the employee with the highest salary.
 
-Task 5
 Create one stored procedure to display all employee records.
 
-Task 6
 Create one index on the emp_name column.
