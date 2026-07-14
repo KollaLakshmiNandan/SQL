@@ -163,7 +163,7 @@ FOR 'test'@'%';
 -- Practical Test
 -- =========================================
 
--- Login as ruchi
+-- Login as test
 
 SELECT *
 FROM Employee;
