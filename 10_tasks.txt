@@ -114,3 +114,29 @@ Drop the Department table.
 
 Drop the database.
 -------------------------------------------------------------
+Task 4: You are working as a Database Developer in an HR department. The HR Manager wants you to improve the Employee database.
+Use the Employee and Department tables to complete the following tasks.
+
+Part A – Subqueries 
+
+>Display employees earning more than the average salary.
+
+>Display the employee with the highest salary.
+
+>Display employees working in the IT department using a subquery.
+
+Part B – Stored Procedures
+
+>Create a stored procedure to display all employees.
+
+>Create a stored procedure to display employees by Department ID.
+
+>Execute both procedures using the CALL statement.
+
+Part C – Indexes
+
+>Create an index on the Employee Name column.
+
+>Display all indexes created on the Employee table.
+
+>Drop the index created on Employee Name.
